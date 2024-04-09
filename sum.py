@@ -15,3 +15,12 @@ price= float(input("float: "))
 print("My name is", name, "and my age is :", age)
 
 #variables in python
+e=None
+print(e)
+
+# f="5"
+#print(f+1) -this will give error
+
+f=5
+#so first convert to an integer then aadd one to it
+print(int(f)+1)
