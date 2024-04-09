@@ -12,3 +12,15 @@ print(name5.count("a"))
 print(name5.isalnum())
 print(name5.isnumeric())
 
+name3= input("enetr your name ")
+print(name3)
+
+num=input("Enter a number")
+print(int(num)+6)
+
+a1=["4",5]
+print(a1)
+
+a1[0]="j"
+print(a1)
+
