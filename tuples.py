@@ -3,3 +3,6 @@ t=(3,5,6,7,8,2)
 print(t.count(5))
 print(t.index(3))
 
+# t[0]=89
+# print(t)
+# tuple is immutable and hence this line throws an error

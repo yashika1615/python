@@ -18,9 +18,11 @@ print(name3)
 num=input("Enter a number")
 print(int(num)+6)
 
-a1=["4",5]
+a1="4"
 print(a1)
 
-a1[0]="j"
-print(a1)
+# a1[0]="j"
+# print(a1)
+# string is immutable and hence this line throws am error
+
 
